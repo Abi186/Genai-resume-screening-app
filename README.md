@@ -45,17 +45,12 @@ python -m uvicorn main:app --reload
 
 # Run frontend
 streamlit run app.py
-```
 
----
-
-## 📌 Future Improvements
+**Future Improvements**
 - Multiple resume comparison
 - Candidate ranking system
 - Database integration
 - Deployment (Render + Streamlit Cloud)
 
-	
-
-## 👨‍💻 Author
+**Author**
 Abi Nantha
