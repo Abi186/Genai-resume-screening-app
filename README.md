@@ -29,7 +29,7 @@ AI-powered Resume Screener built using FastAPI and Streamlit. The application ex
    - Missing Skills  
    - Hiring Decision  
 
-## ▶️ Run Locally
+##  Run Locally
 
 # Create virtual environment
 python -m venv venv
